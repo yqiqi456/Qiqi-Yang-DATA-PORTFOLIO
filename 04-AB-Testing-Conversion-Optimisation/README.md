@@ -152,3 +152,7 @@ Expected Benefits:
 - Conversion Optimisation
 - Product Analytics
 - Business Decision Making
+
+## Visualisation
+
+![Conversion Rate Comparison](screenshots/conversion_rate_comparison.png)
