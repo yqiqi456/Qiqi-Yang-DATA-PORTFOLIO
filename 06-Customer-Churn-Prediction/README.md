@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# Executive BI Dashboard
 
 ## Executive Summary
 
