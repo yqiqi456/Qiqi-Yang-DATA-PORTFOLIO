@@ -57,6 +57,16 @@ Dec 2010 – Dec 2011
 
 ## SQL Analysis Results
 
+| Metric | Result |
+|----------|----------|
+| Total Revenue | £9,747,747.93 |
+| Total Orders | 22,061 |
+| Unique Customers | 4,372 |
+| Repeat Purchase Rate | 65.57% |
+| Top Revenue Country | United Kingdom (£8.19M) |
+| Top Revenue Product | DOTCOM POSTAGE (£206,248.77) |
+| Top 20% Revenue Contribution | 74.6% |
+
 ### Total Revenue
 
 £9.75M
@@ -163,6 +173,26 @@ The analysis identifies:
 These insights support commercial decision-making and business growth strategies.
 
 ## Business Insights
+
+### Revenue Concentration
+
+The United Kingdom generated over 80% of total revenue, indicating a strong dependence on a single market.
+
+### Customer Loyalty
+
+65.57% of customers made repeat purchases, suggesting relatively healthy customer retention.
+
+### Pareto Effect
+
+The top 20% of customers contributed 74.6% of revenue, highlighting the importance of high-value customer management.
+
+### Seasonal Trend
+
+Revenue peaked during September–November 2011, indicating strong seasonal purchasing behaviour before year-end holidays.
+
+### Product Strategy
+
+Revenue was concentrated among a limited number of products, suggesting opportunities for inventory optimisation and targeted promotions.
 
 ### Customer Retention
 
