@@ -79,3 +79,29 @@ Evaluation Metrics:
 ---
 
 ## Model Performance
+
+| Metric | Score |
+|----------|----------|
+| Accuracy | 78.7% |
+| Precision | 62% |
+| Recall | 52% |
+| F1 Score | 56% |
+
+## Key Churn Drivers
+
+Top Positive Drivers of Churn:
+
+- TotalCharges
+- Fiber Optic Internet
+- Streaming Movies
+- Streaming TV
+- Multiple Lines
+
+Top Negative Drivers of Churn:
+
+- Tenure
+- Monthly Charges
+- Two-Year Contract
+- One-Year Contract
+- Online Security
+- Tech Support
