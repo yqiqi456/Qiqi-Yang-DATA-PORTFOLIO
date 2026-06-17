@@ -131,3 +131,29 @@ The analysis identifies:
 * Customer retention opportunities
 
 These insights support commercial decision-making and business growth strategies.
+
+---
+
+## Screenshots
+
+### Total Revenue
+
+![Total Revenue](screenshots/total_revenue.png)
+
+---
+
+### Top Revenue Countries
+
+![Top Countries](screenshots/top_countries.png)
+
+---
+
+### Monthly Revenue Trend
+
+![Monthly Revenue](screenshots/monthly_revenue.png)
+
+---
+
+### Top Customers
+
+![Top Customers](screenshots/top_customers.png)
